@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **Python** and **React**
 
-- 📫 How to reach me **bozeskoko16@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/bo%C5%BEe-skoko-429170210/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bože skoko" height="30" width="40" /></a>
