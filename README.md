@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Boze-noob</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=boze-noob&label=Profile%20views&color=0e75b6&style=flat" alt="boze-noob" /> </p>
 
-Code storage for experiments & personal projects 🚀
+A collection of my experiments and personal projects 🚀
 <br>
 <br>
 
